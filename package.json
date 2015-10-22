@@ -2,7 +2,7 @@
   "name": "epochcopy",
   "keywords": "epoch, clipboard, nodejs, node.js",
   "description": "Copy time since epoch to clipboard",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/alexanderscott/epochcopy.git"
@@ -18,7 +18,7 @@
   },
   "main": "index",
   "bin": {
-    "epoch": "./bin/epochcopy"
+    "epochcopy": "./bin/epochcopy"
   },
   "licenses": [
     {
