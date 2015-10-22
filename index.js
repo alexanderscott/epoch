@@ -1,3 +1,3 @@
 "use strict";
 
-exports = require('./lib/epoch');
+exports = require('./lib/epochcopy');

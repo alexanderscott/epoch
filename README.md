@@ -1,24 +1,24 @@
-# epoch
-[![NPM](https://nodei.co/npm/epoch.png?downloads=true)](https://nodei.co/npm/epoch/)
+# epochcopy
+[![NPM](https://nodei.co/npm/epochcopy.png?downloads=true)](https://nodei.co/npm/epochcopy/)
 Copy to clipboard the time in milliseconds (or seconds) since epoch.  A simple tool for developers.
 
 
 ## Install
     
 ```shell
-npm install -g epoch
+npm install -g epochcopy
 ```
 
 
 ## Usage
 Copy milliseconds since epoch
 ```shell
-epoch
+epochcopy
 ```
     
 Copy seconds since epoch
 ```shell
-epoch --seconds
+epochcopy --seconds
 ```
 
 ## License

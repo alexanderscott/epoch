@@ -1,11 +1,11 @@
 {
-  "name": "epoch",
-  "keywords": "epoch, nodejs, node.js",
+  "name": "epochcopy",
+  "keywords": "epoch, clipboard, nodejs, node.js",
   "description": "Copy time since epoch to clipboard",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexanderscott/epoch.git"
+    "url": "https://github.com/alexanderscott/epochcopy.git"
   },
   "private": false,
   "author": "Alex Ehrnschwender <alexanderscott46@gmail.com> (http://alexehrnschwender.com)",
@@ -18,12 +18,12 @@
   },
   "main": "index",
   "bin": {
-    "epoch": "./bin/epoch"
+    "epoch": "./bin/epochcopy"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/alexanderscott/epoch/raw/master/LICENSE"
+      "url": "https://github.com/alexanderscott/epochcopy/raw/master/LICENSE"
     }
   ]
 }
